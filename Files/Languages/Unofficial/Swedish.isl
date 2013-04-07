@@ -336,4 +336,4 @@ AssocFileExtension=Associera %1 med %2 filnamnstillägg
 AssocingFileExtension=Associerar %1 med %2 filnamnstillägg...
 AutoStartProgramGroupDescription=Autostart:
 AutoStartProgram=Starta automatiskt %1
-AddonHostProgramNotFound=%1 kunde inte hittas i katalogen du valde.%n%nVill du fortsätta ändå?
+AddonHostProgramNotFound=%1 kunde inte hittas i katalogen du valde.%n%nVill du fortsätta ändå? 
